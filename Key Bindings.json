@@ -1,0 +1,4 @@
+[
+    {"keys": ["Ctrl+B"], "command": "bookmarks_list"},
+    {"keys": ["Ctrl+Shift+B"], "command": "bookmark_add"}
+]
